@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Word Cipher</string>
+    <string name="desc_cipher">The Art of Unscrambbling</string>
+    <string name="word_cipher">Word Cipher</string>
+    <string name="word">Ciphered Word</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
